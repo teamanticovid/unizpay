@@ -1,0 +1,1 @@
+<?php /**PATH /Volumes/my-works/laravel/multipayent/script/resources/views/layouts/backend/partials/footer.blade.php ENDPATH**/ ?>
